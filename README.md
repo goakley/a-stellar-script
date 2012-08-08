@@ -1,6 +1,6 @@
 a-stellar-script
 ================
-a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+
 An [A*](http://en.wikipedia.org/wiki/A*_search_algorithm) implementation written in JavaScript.
 
 A* is a heuristic algorithm used for efficient pathfinding/traversal of graphs and grids.  It uses heuristics to estimate the best-case path, and adjusts as necessary.
